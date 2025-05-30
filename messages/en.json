@@ -1,0 +1,97 @@
+{
+  "Error": {
+    "description": "<p>We've unfortunately encountered an error.</p><p>You can try to <retry>reload the page</retry> you were visiting.</p>",
+    "title": "Something went wrong!"
+  },
+  "IndexPage": {
+    "description": "This is a basic example that demonstrates the usage of <code>next-intl</code> with the Next.js App Router. Try changing the locale in the top right corner and see how the content changes.",
+    "title": "next-intl example"
+  },
+  "LocaleLayout": {
+    "title": "next-intl example"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} id {🇲🇨 Indonesian} other {Unknown}}"
+  },
+  "Manifest": {
+    "name": "next-intl example"
+  },
+  "Navigation": {
+    "home": "Home",
+    "pathnames": "Pathnames"
+  },
+  "NotFoundPage": {
+    "description": "Please double-check the browser address bar or use the navigation to go to a known page.",
+    "title": "Page not found"
+  },
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "description": "Learn more about next-intl in the official docs.",
+        "href": "https://next-intl.dev",
+        "title": "Docs"
+      },
+      "source": {
+        "description": "Browse the source code of this example on GitHub.",
+        "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+        "title": "Source code"
+      }
+    }
+  },
+  "PathnamesPage": {
+    "description": "<p>The pathnames are internationalized too.</p><p>If you're using the default language English, you'll see <code>/en/pathnames</code> in the browser address bar on this page.</p><p>If you change the locale to German, the URL is localized accordingly (<code>/de/pfadnamen</code>).</p>",
+    "title": "Pathnames"
+  },
+  "navigation": {
+    "title": "Classic Fables",
+    "selectStory": "Select a Story",
+    "backToSelection": "Back to Stories"
+  },
+  "stories": {
+    "tortoise-hare": {
+      "title": "The Tortoise and the Hare",
+      "description": "A classic tale about persistence and humility",
+      "content": [
+        "Once upon a time, in a peaceful meadow surrounded by rolling hills and wildflowers, there lived a speedy hare who was known throughout the land for his incredible swiftness. This hare was so fast that he could outrun the wind itself, and he took great pride in his natural gift. Every morning, he would race through the forest, leaping over fallen logs and darting between trees with such grace that even the birds would stop their singing to watch in amazement. The other animals in the meadow had grown accustomed to seeing nothing but a blur of brown fur as the hare zoomed past them on his daily runs. His speed had become legendary, and stories of his racing abilities had spread to neighboring meadows and forests, making him quite famous among all the woodland creatures.",
+
+        "In the same meadow, there also lived a wise old tortoise who moved at a much different pace than the energetic hare. This tortoise had a beautiful, weathered shell that told the story of many years spent exploring every corner of the meadow at his own steady rhythm. Unlike the hare, the tortoise never hurried anywhere, preferring to take his time and observe the world around him with careful attention. He would spend hours watching the clouds drift across the sky, listening to the gentle babbling of the nearby stream, and enjoying conversations with the various insects and small creatures he encountered along his slow journeys. The tortoise had learned that there was great wisdom to be found in patience, and he believed that moving slowly allowed him to truly appreciate the beauty and wonder of the world around him.",
+
+        "The hare, however, found the tortoise's slow pace to be quite amusing and often made jokes about it in front of the other animals. He would hop circles around the tortoise while laughing and saying things like, 'At this rate, it will take you a week just to cross the meadow!' The other animals would sometimes chuckle at these displays, but the tortoise never seemed bothered by the hare's teasing. Instead, he would simply smile and continue on his way, maintaining his steady, deliberate pace. The tortoise understood that everyone had their own way of moving through life, and he had long ago made peace with his own natural rhythm. He knew that while he might not be the fastest creature in the meadow, he had other qualities that were just as valuable, such as persistence, determination, and the ability to keep going even when the path became difficult.",
+
+        "One particularly sunny morning, when the dew was still glistening on the grass and the air was filled with the sweet scent of blooming flowers, the hare's teasing reached a new level. He had been showing off his speed to a group of young rabbits when he noticed the tortoise slowly making his way across a nearby path. Unable to resist the opportunity to demonstrate his superiority, the hare bounded over to the tortoise and began running circles around him at an incredible speed, kicking up small clouds of dust with each rapid step. 'Look at you, old friend,' the hare called out between his circles, 'you're moving so slowly that the snails are passing you by! I bet I could run to the other side of the meadow and back before you even make it halfway across!' The tortoise stopped walking and looked up at the energetic hare with his calm, thoughtful eyes.",
+
+        "'You know, young hare,' the tortoise said in his gentle, measured voice, 'speed is certainly a wonderful gift, but it's not the only thing that matters in life. I may be slow, but I am steady, and I believe that consistency and perseverance can be just as powerful as raw speed.' The hare laughed so hard at this suggestion that he had to stop running and catch his breath. 'Are you seriously suggesting that you could beat me in a race?' he asked incredulously, his eyes wide with disbelief. 'That's the most ridiculous thing I've ever heard! I could probably take a nap in the middle of a race and still beat you to the finish line!' The tortoise considered this for a moment, then nodded slowly. 'Perhaps we should put that theory to the test,' he said calmly. 'I challenge you to a race across the meadow. We'll start here at the old oak tree and finish at the red barn on the far side. What do you say?' The hare was so amused by this proposal that he immediately agreed, thinking it would be the easiest victory of his life."
+      ]
+    },
+    "lion-mouse": {
+      "title": "The Lion and the Mouse",
+      "description": "A story about kindness and how even the smallest can help the mightiest",
+      "content": [
+        "Deep in the heart of the African savanna, where the golden grass stretched endlessly toward the horizon and acacia trees provided patches of welcome shade, there lived a magnificent lion who was known as the king of all beasts. This lion was truly a sight to behold, with a thick, flowing mane that caught the sunlight like spun gold and powerful muscles that rippled beneath his tawny coat as he moved with regal grace across his territory. His roar could be heard for miles in every direction, echoing across the plains and reminding all the other animals of his supreme authority in this vast wilderness. The lion spent his days patrolling his domain, ensuring that peace and order were maintained among all the creatures who called the savanna home. He was respected and feared by all, from the smallest insects to the largest elephants, and his word was considered law throughout the land.",
+
+        "On this particular day, the sun was beating down mercilessly from a cloudless sky, and the heat was so intense that even the hardiest animals sought shelter during the midday hours. The lion, feeling drowsy from the warmth and satisfied after a successful morning hunt, decided to rest beneath his favorite acacia tree. This ancient tree had provided him with shade for many years, and its broad canopy offered perfect protection from the scorching sun. As he settled down on the soft earth, the lion's eyelids grew heavy, and soon he was fast asleep, his powerful chest rising and falling in a steady rhythm. His magnificent mane spread out around his head like a golden halo, and his massive paws twitched occasionally as he dreamed of running across the endless plains. The peaceful expression on his face showed that he was completely at ease, feeling secure in his position as the undisputed ruler of this domain.",
+
+        "While the great lion slept peacefully, a tiny field mouse was scurrying about nearby, searching for seeds and small bits of food to sustain herself and her large family. This little mouse was no bigger than the lion's smallest claw, with soft gray fur, bright black eyes, and a long pink tail that helped her maintain balance as she darted between the grass stalks. She was known throughout the mouse community for her quick thinking and adventurous spirit, often venturing farther from home than other mice dared to go in search of the best food sources. On this day, her search had led her closer to the sleeping lion than she had ever been before, but she was so focused on gathering food that she didn't immediately notice the massive predator resting just a few feet away. The mouse continued her work, carefully collecting seeds and storing them in her cheek pouches, completely unaware that she was about to have an encounter that would change her life forever.",
+
+        "As fate would have it, while the mouse was busy gathering a particularly large seed, she lost her footing on a small pebble and tumbled forward, rolling directly onto the lion's enormous paw. The sensation of something small and ticklish moving across his fur caused the lion to stir from his deep sleep, and his golden eyes slowly opened to see what had disturbed his rest. When he looked down and saw the tiny mouse sitting on his paw, looking up at him with wide, frightened eyes, the lion's expression quickly changed from sleepy confusion to amused interest. The mouse, realizing her predicament, began to tremble with fear, knowing that she was completely at the mercy of the most powerful predator in all the savanna. She had heard countless stories about the lion's strength and ferocity, and she was certain that her life was about to come to an abrupt end. The lion, however, seemed more curious than angry about this unexpected interruption to his nap.",
+
+        "'Well, well, well,' rumbled the lion in his deep, resonant voice that seemed to vibrate through the very ground beneath them. 'What do we have here? A brave little mouse who dares to disturb the sleep of the king of beasts?' The mouse's heart was beating so fast that she thought it might burst from her tiny chest, but she knew that her only hope was to speak up and try to appeal to the lion's mercy. Gathering all her courage, she looked up into the lion's magnificent golden eyes and began to speak in her small, squeaky voice. 'Oh great and mighty lion,' she said, her words tumbling out in a rush, 'please forgive me for waking you! I meant no disrespect, and I certainly didn't intend to disturb your rest. I was simply searching for food for my family when I accidentally stumbled onto your paw. I know that I am just a tiny, insignificant creature compared to your greatness, but I beg you to spare my life. If you show me mercy today, I promise that someday, somehow, I will find a way to repay your kindness, even though I know it seems impossible that someone as small as me could ever help someone as powerful as you.'"
+      ]
+    }
+  },
+  "reader": {
+    "progress": "Progress",
+    "of": "of",
+    "previous": "Previous",
+    "next": "Next",
+    "reset": "Reset",
+    "completed": "Story Completed!",
+    "startOver": "Start Over"
+  },
+  "language": {
+    "switch": "Switch Language",
+    "english": "English",
+    "indonesian": "Indonesian"
+  }
+}

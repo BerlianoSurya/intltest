@@ -1,0 +1,265 @@
+{
+  "Navigation": {
+    "home": "Beranda",
+    "dashboard": "Dashboard"
+  },
+  "HomePage": {
+    "hero": {
+      "title": "Berdoa Rosario dengan Panduan",
+      "subtitle": "Rasakan keindahan Rosario Suci dengan panduan langkah demi langkah, misteri harian, dan dukungan multibahasa.",
+      "startPraying": "Mulai Berdoa",
+      "learnMore": "Pelajari Lebih Lanjut"
+    },
+    "features": {
+      "title": "Fitur untuk Perjalanan Doa Anda",
+      "subtitle": "Semua yang Anda butuhkan untuk pengalaman doa rosario yang bermakna",
+      "guided": {
+        "title": "Doa Terpandu",
+        "description": "Panduan langkah demi langkah melalui setiap doa dan misteri rosario."
+      },
+      "mysteries": {
+        "title": "Misteri Harian",
+        "description": "Secara otomatis menyarankan misteri yang sesuai berdasarkan hari, atau pilih sendiri."
+      },
+      "multilingual": {
+        "title": "Multibahasa",
+        "description": "Tersedia dalam Bahasa Inggris dan Bahasa Indonesia untuk komunitas yang lebih luas."
+      },
+      "community": {
+        "title": "Untuk Semua",
+        "description": "Dirancang untuk pemula maupun praktisi rosario yang berpengalaman."
+      }
+    },
+    "cta": {
+      "title": "Mulai Perjalanan Doa Anda Hari Ini",
+      "subtitle": "Bergabunglah dengan ribuan umat beriman dalam berdoa rosario dengan pengalaman terpandu kami.",
+      "button": "Mulai Berdoa Sekarang"
+    }
+  },
+  "Dashboard": {
+    "title": "Dashboard Doa Rosario",
+    "selectMystery": "Pilih Misteri",
+    "todaysMystery": "Misteri Hari Ini",
+    "progress": "Kemajuan",
+    "previous": "Sebelumnya",
+    "next": "Selanjutnya",
+    "reset": "Reset",
+    "mysteryAnnouncement": "Misteri",
+    "mysteryTypes": {
+      "joyful": "Misteri Gembira",
+      "sorrowful": "Misteri Sedih",
+      "glorious": "Misteri Mulia",
+      "luminous": "Misteri Terang"
+    },
+    "stepTypes": {
+      "prayer": "Doa",
+      "mystery": "Misteri",
+      "our_father": "Bapa Kami",
+      "hail_mary": "Salam Maria",
+      "glory_be": "Kemuliaan"
+    },
+    "prayers": {
+      "signOfCross": "Tanda Salib",
+      "signOfCrossText": "Dalam nama Bapa, dan Putera, dan Roh Kudus. Amin.",
+      "apostlesCreed": "Syahadat Para Rasul",
+      "apostlesCreedText": "Aku percaya akan Allah, Bapa yang Mahakuasa, pencipta langit dan bumi. Dan akan Yesus Kristus, Putera-Nya yang tunggal, Tuhan kita, yang dikandung dari Roh Kudus, dilahirkan oleh perawan Maria, menderita sengsara dalam pemerintahan Pontius Pilatus, disalibkan, wafat dan dimakamkan, turun ke tempat penantian, pada hari ketiga bangkit dari antara orang mati, naik ke surga, duduk di sebelah kanan Allah Bapa yang Mahakuasa, dari situ Ia akan datang mengadili orang hidup dan mati. Aku percaya akan Roh Kudus, Gereja Katolik yang kudus, persekutuan para kudus, pengampunan dosa, kebangkitan badan, kehidupan kekal. Amin.",
+      "ourFather": "Bapa Kami",
+      "ourFatherText": "Bapa kami yang ada di surga, dimuliakanlah nama-Mu, datanglah kerajaan-Mu, jadilah kehendak-Mu di atas bumi seperti di dalam surga. Berilah kami pada hari ini makanan kami yang secukupnya, dan ampunilah kesalahan kami, seperti kami pun mengampuni orang yang bersalah kepada kami, dan janganlah masukkan kami ke dalam pencobaan, tetapi bebaskanlah kami dari yang jahat. Amin.",
+      "hailMary": "Salam Maria",
+      "hailMaryText": "Salam Maria, penuh rahmat, Tuhan sertamu, terpujilah engkau di antara wanita, dan terpujilah buah tubuhmu, Yesus. Santa Maria, Bunda Allah, doakanlah kami yang berdosa ini, sekarang dan waktu kami mati. Amin.",
+      "gloryBe": "Kemuliaan",
+      "gloryBeText": "Kemuliaan kepada Bapa, dan Putera, dan Roh Kudus, seperti pada permulaan, sekarang, selalu, dan sepanjang segala abad. Amin.",
+      "hailHolyQueen": "Salam Ratu Surga",
+      "hailHolyQueenText": "Salam Ratu Surga, Bunda kemurahan, hidup, kegembiraan, dan harapan kami. Kepada-Mu kami berseru, anak-anak Hawa yang terbuang. Kepada-Mu kami mengeluh dan merintih dalam lembah air mata ini. Maka, ya Pengantara kami, lihatlah kami dengan mata belas kasihan-Mu. Dan sesudah dalam pembuangan ini, tunjukkanlah kepada kami Yesus, buah tubuh-Mu yang terpuji. Ya Maria yang pengasih, yang murah hati, yang manis. Doakanlah kami, ya Santa Bunda Allah, supaya kami dapat menerima janji-janji Kristus. Amin.",
+      "finalPrayer": "Doa Penutup",
+      "finalPrayerText": "Ya Allah, Putera-Mu yang tunggal dengan hidup, sengsara, wafat, dan kebangkitan-Nya telah memperoleh bagi kami pahala hidup kekal. Kami mohon, semoga dengan merenungkan misteri-misteri Rosario Suci Santa Perawan Maria ini, kami dapat meneladan apa yang dikandungnya dan memperoleh apa yang dijanjikannya. Demi Kristus Tuhan kami. Amin."
+    },
+    "mysteries": {
+      "title": "Misteri",
+      "description": "Renungkanlah misteri-misteri suci ini selama doa Anda",
+      "joyful": {
+        "1": {
+          "title": "Kabar Gembira",
+          "content": "Malaikat Gabriel memberitakan kepada Maria bahwa ia akan mengandung dan melahirkan Putera Allah."
+        },
+        "2": {
+          "title": "Kunjungan Maria",
+          "content": "Maria mengunjungi sepupunya Elisabet yang sedang mengandung Yohanes Pembaptis."
+        },
+        "3": {
+          "title": "Kelahiran Yesus",
+          "content": "Yesus dilahirkan di Betlehem dan dibaringkan dalam palungan."
+        },
+        "4": {
+          "title": "Penyerahan Yesus",
+          "content": "Maria dan Yosef mempersembahkan bayi Yesus di Bait Allah."
+        },
+        "5": {
+          "title": "Yesus Ditemukan di Bait Allah",
+          "content": "Setelah tiga hari, Maria dan Yosef menemukan Yesus yang berusia dua belas tahun sedang mengajar di Bait Allah."
+        }
+      },
+      "sorrowful": {
+        "1": {
+          "title": "Yesus Berdoa di Taman",
+          "content": "Yesus berdoa di Taman Getsemani dan menerima kehendak Bapa-Nya."
+        },
+        "2": {
+          "title": "Yesus Disiksa",
+          "content": "Yesus disiksa dengan kejam oleh tentara Romawi."
+        },
+        "3": {
+          "title": "Yesus Dimahkotai Duri",
+          "content": "Yesus diejek dan dimahkotai dengan duri oleh para tentara."
+        },
+        "4": {
+          "title": "Yesus Memikul Salib",
+          "content": "Yesus memikul salib-Nya ke Kalvari, jatuh tiga kali di sepanjang jalan."
+        },
+        "5": {
+          "title": "Yesus Wafat di Salib",
+          "content": "Yesus disalibkan dan wafat di salib untuk keselamatan kita."
+        }
+      },
+      "glorious": {
+        "1": {
+          "title": "Kebangkitan Yesus",
+          "content": "Yesus bangkit dari kematian pada hari ketiga, mengalahkan dosa dan maut."
+        },
+        "2": {
+          "title": "Kenaikan Yesus",
+          "content": "Yesus naik ke surga empat puluh hari setelah kebangkitan-Nya."
+        },
+        "3": {
+          "title": "Turunnya Roh Kudus",
+          "content": "Roh Kudus turun atas para rasul pada hari Pentakosta."
+        },
+        "4": {
+          "title": "Diangkatnya Maria",
+          "content": "Maria diangkat jiwa dan raganya ke surga."
+        },
+        "5": {
+          "title": "Maria Dimahkotai",
+          "content": "Maria dimahkotai sebagai Ratu Surga dan Bumi."
+        }
+      },
+      "luminous": {
+        "1": {
+          "title": "Pembaptisan Yesus",
+          "content": "Yesus dibaptis oleh Yohanes Pembaptis di Sungai Yordan."
+        },
+        "2": {
+          "title": "Pesta Perkawinan di Kana",
+          "content": "Yesus melakukan mukjizat pertama-Nya, mengubah air menjadi anggur."
+        },
+        "3": {
+          "title": "Pewartaan Kerajaan Allah",
+          "content": "Yesus mewartakan Kerajaan Allah dan memanggil semua untuk bertobat."
+        },
+        "4": {
+          "title": "Transfigurasi",
+          "content": "Yesus berubah rupa di hadapan Petrus, Yakobus, dan Yohanes di Gunung Tabor."
+        },
+        "5": {
+          "title": "Penetapan Ekaristi",
+          "content": "Yesus menetapkan Ekaristi pada Perjamuan Terakhir."
+        }
+      }
+    }
+  },
+  "Error": {
+    "description": "<p>Maaf, kami mengalami kesalahan.</p><p>Kamu bisa coba untuk <retry>memuat ulang halaman</retry> yang sedang dibuka.</p>",
+    "title": "Terjadi kesalahan!"
+  },
+  "IndexPage": {
+    "description": "Ini adalah contoh dasar yang menunjukkan cara penggunaan <code>next-intl</code> dengan Next.js App Router. Coba ubah bahasa di pojok kanan atas dan lihat bagaimana kontennya berubah.",
+    "title": "Contoh next-intl"
+  },
+  "LocaleLayout": {
+    "title": "Contoh next-intl"
+  },
+  "LocaleSwitcher": {
+    "label": "Ganti bahasa",
+    "locale": "{locale, select, de {🇩🇪 Jerman} en {🇺🇸 Inggris} id {🇲🇨 Indonesia} other {Tidak diketahui}}"
+  },
+  "Manifest": {
+    "name": "Contoh next-intl"
+  },
+  "Navigation": {
+    "home": "Beranda",
+    "pathnames": "Nama Jalur"
+  },
+  "NotFoundPage": {
+    "description": "Silakan periksa kembali alamat di bilah alamat browser atau gunakan navigasi untuk pergi ke halaman yang sudah dikenal.",
+    "title": "Halaman tidak ditemukan"
+  },
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "description": "Pelajari lebih lanjut tentang next-intl di dokumentasi resmi.",
+        "href": "https://next-intl.dev",
+        "title": "Dokumentasi"
+      },
+      "source": {
+        "description": "Lihat kode sumber contoh ini di GitHub.",
+        "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+        "title": "Kode sumber"
+      }
+    }
+  },
+  "PathnamesPage": {
+    "description": "<p>Nama jalur juga sudah di-internasionalisasi.</p><p>Jika kamu menggunakan bahasa default yaitu Inggris, kamu akan melihat <code>/en/pathnames</code> di bilah alamat browser di halaman ini.</p><p>Kalau kamu ubah bahasanya ke Bahasa Jerman, URL-nya akan menyesuaikan (<code>/de/pfadnamen</code>).</p>",
+    "title": "Nama Jalur"
+  },
+  "navigation": {
+    "title": "Dongeng Klasik",
+    "selectStory": "Pilih Cerita",
+    "backToSelection": "Kembali ke Daftar Cerita"
+  },
+  "stories": {
+    "tortoise-hare": {
+      "title": "Kura-kura dan Kelinci",
+      "description": "Kisah klasik tentang ketekunan dan kerendahan hati",
+      "content": [
+        "Dahulu kala, di sebuah padang rumput yang damai yang dikelilingi oleh bukit-bukit bergelombang dan bunga-bunga liar, hiduplah seekor kelinci yang sangat cepat yang terkenal di seluruh negeri karena kecepatan luar biasanya. Kelinci ini begitu cepat sehingga dia bisa berlari lebih cepat dari angin itu sendiri, dan dia sangat bangga dengan karunia alami yang dimilikinya. Setiap pagi, dia akan berlari melalui hutan, melompati batang pohon yang tumbang dan berlari di antara pepohonan dengan keanggunan yang membuat bahkan burung-burung berhenti bernyanyi untuk menyaksikan dengan kagum. Hewan-hewan lain di padang rumput telah terbiasa melihat tidak lebih dari bayangan bulu coklat saat kelinci itu melewati mereka dalam lari hariannya. Kecepatannya telah menjadi legendaris, dan cerita tentang kemampuan berlarinya telah menyebar ke padang rumput dan hutan tetangga, membuatnya cukup terkenal di antara semua makhluk hutan.",
+
+        "Di padang rumput yang sama, hiduplah juga seekor kura-kura tua yang bijaksana yang bergerak dengan kecepatan yang sangat berbeda dari kelinci yang energik itu. Kura-kura ini memiliki tempurung yang indah dan lapuk yang menceritakan kisah bertahun-tahun dihabiskan untuk menjelajahi setiap sudut padang rumput dengan ritme yang mantap. Tidak seperti kelinci, kura-kura tidak pernah terburu-buru ke mana pun, lebih suka meluangkan waktu dan mengamati dunia di sekelilingnya dengan perhatian yang cermat. Dia akan menghabiskan berjam-jam menyaksikan awan-awan melayang di langit, mendengarkan gemericik lembut sungai kecil di dekatnya, dan menikmati percakapan dengan berbagai serangga dan makhluk kecil yang ditemuinya selama perjalanan lambatnya. Kura-kura telah belajar bahwa ada kebijaksanaan besar yang dapat ditemukan dalam kesabaran, dan dia percaya bahwa bergerak perlahan memungkinkannya untuk benar-benar menghargai keindahan dan keajaiban dunia di sekelilingnya.",
+
+        "Kelinci, bagaimanapun, menganggap kecepatan lambat kura-kura cukup menggelikan dan sering membuat lelucon tentang hal itu di depan hewan-hewan lain. Dia akan melompat-lompat mengelilingi kura-kura sambil tertawa dan mengatakan hal-hal seperti, 'Dengan kecepatan ini, kamu butuh seminggu hanya untuk menyeberangi padang rumput!' Hewan-hewan lain kadang-kadang terkikik melihat pertunjukan ini, tetapi kura-kura tidak pernah terlihat terganggu oleh ejekan kelinci. Sebaliknya, dia hanya tersenyum dan melanjutkan perjalanannya, mempertahankan kecepatan yang mantap dan disengaja. Kura-kura memahami bahwa setiap orang memiliki cara mereka sendiri untuk bergerak melalui hidup, dan dia telah lama berdamai dengan ritme alaminya sendiri. Dia tahu bahwa meskipun dia mungkin bukan makhluk tercepat di padang rumput, dia memiliki kualitas lain yang sama berharganya, seperti ketekunan, tekad, dan kemampuan untuk terus berjalan bahkan ketika jalan menjadi sulit.",
+
+        "Pada suatu pagi yang sangat cerah, ketika embun masih berkilauan di rumput dan udara dipenuhi dengan aroma manis bunga-bunga yang mekar, ejekan kelinci mencapai tingkat yang baru. Dia telah memamerkan kecepatannya kepada sekelompok kelinci muda ketika dia melihat kura-kura perlahan-lahan melintasi jalan di dekatnya. Tidak dapat menahan kesempatan untuk menunjukkan superioritas, kelinci melompat ke arah kura-kura dan mulai berlari mengelilinginya dengan kecepatan yang luar biasa, menendang awan kecil debu dengan setiap langkah cepatnya. 'Lihat dirimu, teman tua,' teriak kelinci di antara lingkarannya, 'kamu bergerak begitu lambat sehingga siput-siput melewatimu! Aku yakin aku bisa berlari ke sisi lain padang rumput dan kembali sebelum kamu bahkan sampai setengah jalan!' Kura-kura berhenti berjalan dan menatap kelinci yang energik dengan mata yang tenang dan penuh pemikiran.",
+
+        "'Kau tahu, kelinci muda,' kata kura-kura dengan suara lembut dan terukur, 'kecepatan tentu saja adalah karunia yang luar biasa, tetapi itu bukan satu-satunya hal yang penting dalam hidup. Aku mungkin lambat, tetapi aku mantap, dan aku percaya bahwa konsistensi dan ketekunan bisa sama kuatnya dengan kecepatan mentah.' Kelinci tertawa begitu keras mendengar saran ini sehingga dia harus berhenti berlari dan mengatur napas. 'Apakah kamu serius menyarankan bahwa kamu bisa mengalahkanku dalam perlombaan?' tanyanya dengan tidak percaya, matanya melebar karena ketidakpercayaan. 'Itu hal paling konyol yang pernah kudengar! Aku mungkin bisa tidur siang di tengah perlombaan dan masih mengalahkanmu sampai garis finish!' Kura-kura mempertimbangkan hal ini sejenak, kemudian mengangguk perlahan. 'Mungkin kita harus menguji teori itu,' katanya dengan tenang. 'Aku menantangmu untuk berlomba melintasi padang rumput. Kita akan mulai di sini di pohon ek tua dan selesai di gudang merah di sisi yang jauh. Bagaimana menurutmu?' Kelinci sangat terhibur dengan proposal ini sehingga dia langsung setuju, mengira itu akan menjadi kemenangan termudah dalam hidupnya."
+      ]
+    },
+    "lion-mouse": {
+      "title": "Singa dan Tikus",
+      "description": "Cerita tentang kebaikan dan bagaimana yang terkecil pun bisa membantu yang terkuat",
+      "content": [
+        "Jauh di jantung savana Afrika, di mana rumput emas membentang tanpa batas menuju cakrawala dan pohon-pohon akasia memberikan bercak-bercak naungan yang menyambut, hiduplah seekor singa yang megah yang dikenal sebagai raja dari semua binatang. Singa ini benar-benar pemandangan yang menakjubkan, dengan surai tebal yang mengalir menangkap sinar matahari seperti emas yang dipintal dan otot-otot kuat yang bergelombang di bawah bulu keemasan saat dia bergerak dengan keanggunan kerajaan melintasi wilayahnya. Aumannya dapat didengar bermil-mil ke segala arah, bergema melintasi dataran dan mengingatkan semua hewan lain akan otoritas tertingginya di padang gurun yang luas ini. Singa menghabiskan hari-harinya berpatroli di domainnya, memastikan bahwa kedamaian dan ketertiban terjaga di antara semua makhluk yang menyebut savana sebagai rumah. Dia dihormati dan ditakuti oleh semua, dari serangga terkecil hingga gajah terbesar, dan kata-katanya dianggap sebagai hukum di seluruh negeri.",
+
+        "Pada hari tertentu ini, matahari menyinari tanpa ampun dari langit tanpa awan, dan panasnya begitu intens sehingga bahkan hewan-hewan yang paling tahan banting mencari perlindungan selama jam-jam siang. Singa, merasa mengantuk karena kehangatan dan puas setelah berburu yang sukses di pagi hari, memutuskan untuk beristirahat di bawah pohon akasia favoritnya. Pohon kuno ini telah memberikannya naungan selama bertahun-tahun, dan kanopi luasnya menawarkan perlindungan sempurna dari matahari yang menyengat. Saat dia menetap di tanah yang lembut, kelopak mata singa menjadi berat, dan segera dia tertidur lelap, dada kuatnya naik turun dalam ritme yang mantap. Surai megahnya tersebar di sekitar kepalanya seperti lingkaran cahaya emas, dan cakar-cakar besarnya sesekali berkedut saat dia bermimpi berlari melintasi dataran tanpa batas. Ekspresi damai di wajahnya menunjukkan bahwa dia benar-benar tenang, merasa aman dalam posisinya sebagai penguasa tak terbantahkan dari domain ini.",
+
+        "Sementara singa besar itu tidur dengan damai, seekor tikus kecil sedang berlarian di dekatnya, mencari biji-bijian dan potongan-potongan kecil makanan untuk menghidupi dirinya dan keluarga besarnya. Tikus kecil ini tidak lebih besar dari cakar terkecil singa, dengan bulu abu-abu lembut, mata hitam cerah, dan ekor merah muda panjang yang membantunya menjaga keseimbangan saat dia berlari di antara batang-batang rumput. Dia dikenal di seluruh komunitas tikus karena pemikiran cepatnya dan semangat petualangannya, sering kali berkelana lebih jauh dari rumah daripada tikus lain yang berani pergi untuk mencari sumber makanan terbaik. Pada hari ini, pencariannya telah membawanya lebih dekat ke singa yang sedang tidur daripada yang pernah dia alami sebelumnya, tetapi dia begitu fokus mengumpulkan makanan sehingga dia tidak langsung menyadari predator besar yang beristirahat hanya beberapa kaki jauhnya. Tikus melanjutkan pekerjaannya, dengan hati-hati mengumpulkan biji-bijian dan menyimpannya di kantong pipinya, sama sekali tidak menyadari bahwa dia akan mengalami pertemuan yang akan mengubah hidupnya selamanya.",
+
+        "Seperti yang ditakdirkan, sementara tikus sibuk mengumpulkan biji yang sangat besar, dia kehilangan pijakan pada kerikil kecil dan jatuh ke depan, menggelinding langsung ke cakar besar singa. Sensasi sesuatu yang kecil dan geli bergerak di bulunya menyebabkan singa terbangun dari tidur nyenyaknya, dan mata emasnya perlahan terbuka untuk melihat apa yang telah mengganggu istirahatnya. Ketika dia melihat ke bawah dan melihat tikus kecil duduk di cakarnya, menatapnya dengan mata yang lebar dan ketakutan, ekspresi singa dengan cepat berubah dari kebingungan mengantuk menjadi minat yang geli. Tikus, menyadari situasi sulitnya, mulai gemetar ketakutan, mengetahui bahwa dia benar-benar berada di bawah belas kasihan predator paling kuat di seluruh savana. Dia telah mendengar cerita tak terhitung tentang kekuatan dan keganasan singa, dan dia yakin bahwa hidupnya akan segera berakhir secara tiba-tiba. Singa, bagaimanapun, tampak lebih penasaran daripada marah tentang gangguan tak terduga terhadap tidur siangnya ini.",
+
+        "'Nah, nah, nah,' geram singa dengan suara dalam dan bergema yang tampaknya bergetar melalui tanah di bawah mereka. 'Apa yang kita miliki di sini? Seekor tikus kecil yang berani yang berani mengganggu tidur raja binatang?' Jantung tikus berdetak begitu cepat sehingga dia pikir itu mungkin meledak dari dada kecilnya, tetapi dia tahu bahwa satu-satunya harapannya adalah berbicara dan mencoba memohon belas kasihan singa. Mengumpulkan semua keberaniannya, dia menatap mata emas megah singa dan mulai berbicara dengan suara kecil dan melengking. 'Oh singa yang besar dan perkasa,' katanya, kata-katanya keluar terburu-buru, 'tolong maafkan aku karena membangunkanmu! Aku tidak bermaksud tidak hormat, dan aku tentu tidak bermaksud mengganggu istirahatmu. Aku hanya mencari makanan untuk keluargaku ketika aku secara tidak sengaja tersandung ke cakarmu. Aku tahu bahwa aku hanya makhluk kecil yang tidak berarti dibandingkan dengan kehebatanmu, tetapi aku mohon agar kamu mengampuni hidupku. Jika kamu menunjukkan belas kasihan kepadaku hari ini, aku berjanji bahwa suatu hari nanti, entah bagaimana, aku akan menemukan cara untuk membalas kebaikanmu, meskipun aku tahu tampaknya mustahil bahwa seseorang sekecil aku bisa membantu seseorang sekuat dirimu.'"
+      ]
+    }
+  },
+  "reader": {
+    "progress": "Kemajuan",
+    "of": "dari",
+    "previous": "Sebelumnya",
+    "next": "Selanjutnya",
+    "reset": "Ulang",
+    "completed": "Cerita Selesai!",
+    "startOver": "Mulai Lagi"
+  },
+  "language": {
+    "switch": "Ganti Bahasa",
+    "english": "Bahasa Inggris",
+    "indonesian": "Bahasa Indonesia"
+  }
+}
