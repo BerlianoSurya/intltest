@@ -11,6 +11,7 @@ export default function Navigation() {
         <div>
           <NavigationLink href="/">{t('home')}</NavigationLink>
           <NavigationLink href="/pathnames">{t('pathnames')}</NavigationLink>
+          <NavigationLink href="/fables">fables</NavigationLink>
         </div>
         <LocaleSwitcher />
       </nav>
